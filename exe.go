@@ -22,7 +22,8 @@ func execjava(jar string) {
 	}
 }
 
-func open(id string, title string, jar string) {
+// Open Abre o arquivo jar usando o ID informado.
+func Open(id string, title string, jar string) {
 	_, err := gow32.CreateMutex(id)
 	if err != nil {
 		err := beeep.Notify(title, "App já iniciado, verifique.", "assets/information.png")
