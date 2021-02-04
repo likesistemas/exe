@@ -1,4 +1,4 @@
-module github.com/likesistemas/exe
+module github.com/likesistemas/exe-jar-go
 
 go 1.15
 

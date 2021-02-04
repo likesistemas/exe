@@ -6,4 +6,4 @@ Biblioteca para criar uma função para abrir um arquivo .jar.
 
 Para compilar um executavel usando essa biblioteca seguir o exemplo:
 
-https://github.com/likesistemas/exe-docker
+https://github.com/likesistemas/exe-jar/tree/using-golang
